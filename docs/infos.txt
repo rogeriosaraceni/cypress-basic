@@ -1,0 +1,2 @@
+https://github.com/ErickWendel/cypress-for-begginers/tree/main
+https://github.com/ErickWendel/vanilla-js-web-app-example
